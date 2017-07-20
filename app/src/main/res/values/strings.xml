@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mehta Roll Corner</string>
+    <string name="detail_text">Mehta Roll is one eatery that can outscore many khati rolls
+        eateries in delhi.With each roll wrapped delicately in romaali rotis and served with minty chutney
+        , Mehta Rolls is touted to be the king of rolls and there is nothing denying that.</string>
+    <string name="mehta_tag_line">Roll it Out at Mehta\'s</string>
+    <string name="contact_info">Contact Info</string>
+    <string name="address">A166, Raju Park, Devli Road, New Delhi</string>
+    <string name="phone_no">+91-8750011157</string>
+    <string name="email">mehtarollscorner@gmail.com</string>
+    <string name="five_off">5% Off</string>
+</resources>
